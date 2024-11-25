@@ -1,0 +1,18 @@
+[0.693s] Invoking command in '/home/hsh/Workspace/ros_ws/build/urdf_tutorial': PYTHONPATH=/home/hsh/Workspace/ros_ws/build/urdf_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hsh/Workspace/ros_ws/install/urdf_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/hsh/Workspace/ros_ws/build/urdf_tutorial/build --no-deps symlink_data
+[0.898s] running develop
+[0.998s] running egg_info
+[0.998s] writing urdf_tutorial.egg-info/PKG-INFO
+[0.999s] writing dependency_links to urdf_tutorial.egg-info/dependency_links.txt
+[0.999s] writing entry points to urdf_tutorial.egg-info/entry_points.txt
+[0.999s] writing requirements to urdf_tutorial.egg-info/requires.txt
+[0.999s] writing top-level names to urdf_tutorial.egg-info/top_level.txt
+[1.024s] reading manifest file 'urdf_tutorial.egg-info/SOURCES.txt'
+[1.024s] writing manifest file 'urdf_tutorial.egg-info/SOURCES.txt'
+[1.049s] running build_ext
+[1.049s] Creating /home/hsh/Workspace/ros_ws/install/urdf_tutorial/lib/python3.8/site-packages/urdf-tutorial.egg-link (link to .)
+[1.050s] 
+[1.050s] Installed /home/hsh/Workspace/ros_ws/build/urdf_tutorial
+[1.050s] running symlink_data
+[1.051s] symbolically linking /home/hsh/Workspace/ros_ws/build/urdf_tutorial/launch/robot_3.launch.py -> /home/hsh/Workspace/ros_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[1.051s] error: can't copy '/home/hsh/Workspace/ros_ws/build/urdf_tutorial/urdf/robot_2_simple_2leg.xacro': doesn't exist or not a regular file
+[1.082s] Invoked command in '/home/hsh/Workspace/ros_ws/build/urdf_tutorial' returned '1': PYTHONPATH=/home/hsh/Workspace/ros_ws/build/urdf_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hsh/Workspace/ros_ws/install/urdf_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/hsh/Workspace/ros_ws/build/urdf_tutorial/build --no-deps symlink_data

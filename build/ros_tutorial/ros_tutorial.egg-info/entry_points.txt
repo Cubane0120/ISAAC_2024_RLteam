@@ -1,0 +1,3 @@
+[console_scripts]
+turtlesim_circle = ros_tutorial.turtlesim_circle:main
+

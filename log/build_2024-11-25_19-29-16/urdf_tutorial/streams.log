@@ -1,0 +1,19 @@
+[0.629s] Invoking command in '/home/hsh/Workspace/ros_ws/build/urdf_tutorial': PYTHONPATH=/home/hsh/Workspace/ros_ws/build/urdf_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hsh/Workspace/ros_ws/install/urdf_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/hsh/Workspace/ros_ws/build/urdf_tutorial/build --no-deps symlink_data
+[0.804s] running develop
+[0.911s] running egg_info
+[0.911s] writing urdf_tutorial.egg-info/PKG-INFO
+[0.911s] writing dependency_links to urdf_tutorial.egg-info/dependency_links.txt
+[0.911s] writing entry points to urdf_tutorial.egg-info/entry_points.txt
+[0.911s] writing requirements to urdf_tutorial.egg-info/requires.txt
+[0.911s] writing top-level names to urdf_tutorial.egg-info/top_level.txt
+[0.938s] reading manifest file 'urdf_tutorial.egg-info/SOURCES.txt'
+[0.938s] writing manifest file 'urdf_tutorial.egg-info/SOURCES.txt'
+[0.964s] running build_ext
+[0.965s] Creating /home/hsh/Workspace/ros_ws/install/urdf_tutorial/lib/python3.8/site-packages/urdf-tutorial.egg-link (link to .)
+[0.965s] 
+[0.965s] Installed /home/hsh/Workspace/ros_ws/build/urdf_tutorial
+[0.966s] running symlink_data
+[0.966s] symbolically linking /home/hsh/Workspace/ros_ws/build/urdf_tutorial/launch/robot_test.launch.py -> /home/hsh/Workspace/ros_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[0.966s] error: can't copy '/home/hsh/Workspace/ros_ws/build/urdf_tutorial/urdf/robot_2_simple_2leg.xacro': doesn't exist or not a regular file
+[0.966s] symbolically linking /home/hsh/Workspace/ros_ws/build/urdf_tutorial/urdf/robot_test.xacro -> /home/hsh/Workspace/ros_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[0.988s] Invoked command in '/home/hsh/Workspace/ros_ws/build/urdf_tutorial' returned '1': PYTHONPATH=/home/hsh/Workspace/ros_ws/build/urdf_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hsh/Workspace/ros_ws/install/urdf_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/hsh/Workspace/ros_ws/build/urdf_tutorial/build --no-deps symlink_data

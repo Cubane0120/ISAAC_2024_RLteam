@@ -1,0 +1,17 @@
+[0.662s] Invoking command in '/home/hsh/Workspace/ros_ws/build/ros_tutorial': PYTHONPATH=/home/hsh/Workspace/ros_ws/build/ros_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hsh/Workspace/ros_ws/install/ros_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/hsh/Workspace/ros_ws/build/ros_tutorial/build --no-deps symlink_data
+[0.843s] running develop
+[0.950s] running egg_info
+[0.950s] writing ros_tutorial.egg-info/PKG-INFO
+[0.950s] writing dependency_links to ros_tutorial.egg-info/dependency_links.txt
+[0.950s] writing entry points to ros_tutorial.egg-info/entry_points.txt
+[0.950s] writing requirements to ros_tutorial.egg-info/requires.txt
+[0.950s] writing top-level names to ros_tutorial.egg-info/top_level.txt
+[0.976s] reading manifest file 'ros_tutorial.egg-info/SOURCES.txt'
+[0.976s] writing manifest file 'ros_tutorial.egg-info/SOURCES.txt'
+[1.003s] running build_ext
+[1.003s] Creating /home/hsh/Workspace/ros_ws/install/ros_tutorial/lib/python3.8/site-packages/ros-tutorial.egg-link (link to .)
+[1.004s] Installing turtlesim_circle script to /home/hsh/Workspace/ros_ws/install/ros_tutorial/lib/ros_tutorial
+[1.004s] 
+[1.004s] Installed /home/hsh/Workspace/ros_ws/build/ros_tutorial
+[1.004s] running symlink_data
+[1.025s] Invoked command in '/home/hsh/Workspace/ros_ws/build/ros_tutorial' returned '0': PYTHONPATH=/home/hsh/Workspace/ros_ws/build/ros_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hsh/Workspace/ros_ws/install/ros_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/hsh/Workspace/ros_ws/build/ros_tutorial/build --no-deps symlink_data
